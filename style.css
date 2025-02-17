@@ -1,0 +1,37 @@
+.list {
+    padding-top: 5px;
+    padding-right: 80px;
+    padding-left: 15px;
+    padding-bottom: 20px;
+    margin: 20px;
+    text-align: left;
+    background-color: slategray;
+    column-gap: 5px;
+}
+
+.big {
+    background-color: burlywood;
+    height: 40px;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#top {
+    background-color: rgb(128, 165, 165);
+}
+
+#bot {
+    background-color: rgb(139, 204, 180);
+}
+
+img {
+    height: 150px;
+}
+
+.image {
+    display: inline-block;
+}
+
+h1 {
+    font-size: 50px;
+}
